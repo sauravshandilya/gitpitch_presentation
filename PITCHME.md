@@ -1,10 +1,64 @@
-## Header -1 
+# Introduction to Markdown 
 
-This is header of level-2 and i am not concerned about it beacuse i am trying git pitch presentation....
+## 
 
-```python
-	def random_function(a):
-		print "just printing some random function in python"
+footnote : "© 2017 Saurav Shandilya."
+
+---
+
+# Headers
+
+Size of headers are defined by "#"
+
++++
+
+# Header-1 
+
+Source: 
+```markdown
+	# Header
 ```
+Output: 
+# Header
 
-Adding another line
++++
+
+# Header-2 
+
+Source: 
+```markdown
+	## Header
+```
+Output: 
+## Header
+
++++
+
+# Header-3
+
+Source: 
+```markdown
+	## Header
+```
+Output: 
+### Header
+
+---
+
+# List
+
+List is defined by "-" or "*"
+
+- Item-1
+- Item-2
+- Item-3
+
+---
+# Nesting of List
+
+- item-1
+	- item-1.1
+	- item-1.2
+	- item-1.3
+-item-2
+-item-3
