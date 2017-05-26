@@ -142,11 +142,31 @@ _Italics Text_
 ## Adding Images
 
 Inline-style: 
-![alt text](https://github.com/sauravshandilya/gitpitch_presentation/blob/master/images/eyantra_logo.png)
+```markdown
+![alt text](https://raw.githubusercontent.com/sauravshandilya/gitpitch_presentation/master/images/eyantra_logo.png)
+```
+
+![alt text](https://raw.githubusercontent.com/sauravshandilya/gitpitch_presentation/master/images/eyantra_logo.png)
 
 
+---
+<p align="left">
+  
+## Adding Tables
+</p>
+```markdown
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:|: -----|
+| row 1         | this col      | 1600  |
+| row 2         | is center     | 12    |
+| row 3         | align         | 1     |
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:|:----- |
+| row 1         | this col      | 1600  |
+| row 2         | is center     | 12    |
+| row 3         | align         | 1     |
 
 
 ---
