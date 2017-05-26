@@ -99,7 +99,7 @@ _Italics Text_
         *  and also custard apple
         *  without seeds
 ```
----
++++
 * nested-1
     * nested-1.1 : 
 
@@ -140,6 +140,13 @@ _Italics Text_
 
 ---
 ## Adding Images
+
+Inline-style: 
+![alt text](https://github.com/sauravshandilya/gitpitch_presentation/blob/master/images/eyantra_logo.png)
+
+
+
+
 
 
 ---
