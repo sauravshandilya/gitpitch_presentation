@@ -62,13 +62,10 @@ _Italics Text_
 * Item-2    OR  - Item-2
 * Item-3    OR  - Item-3
 ```
-<p align="left">
 
 * Item-1
 * Item-2
 * Item-3
-
-</p>
 
 +++
 
