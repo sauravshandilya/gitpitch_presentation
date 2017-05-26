@@ -1,4 +1,4 @@
-# Getting Started - Markdown Language
+### Getting Started - Markdown Language
 
 e-Yantra Team 
 
@@ -99,6 +99,7 @@ _Italics Text_
         *  and also custard apple
         *  without seeds
 ```
+---
 * nested-1
     * nested-1.1 : 
 
@@ -119,7 +120,29 @@ _Italics Text_
         *  without seeds
 
 ---
+## Link
 
+### External Website
+
+```markdown
+[e-yantra official homepage](www.e-yantra.org)
+```
+[e-yantra official homepage is hosted at www.e-yantra.org](www.e-yantra.org)
+
++++
+
+### Relative Link
+
+```markdown
+[Relative link to another file in github folder](../test)
+```
+[Relative link to another file in github folder](../test)
+
+---
+## Adding Images
+
+
+---
 ## References and Resources
 
 1. [Practice markdown](http://commonmark.org/help/tutorial/)
