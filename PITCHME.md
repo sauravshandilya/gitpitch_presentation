@@ -152,7 +152,7 @@ Inline-style:
 ---
 
  
-<div style="text-align: left"> ## Adding Tables </div>
+## Adding Tables 
 
 ```markdown
 
