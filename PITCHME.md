@@ -19,6 +19,7 @@ e-Yantra Team
 ---
 
 ## Basic Formating
+<br> <br>
 ### Bold:
 ``` markdown
 **Bold Text**  OR	__Bold Text__
@@ -53,15 +54,20 @@ _Italics Text_
 
 ## List
 
+<br><br>
+
 ### Unordered List
 ```markdown
 * Item-1    OR  - Item-1
 * Item-2    OR  - Item-2
 * Item-3    OR  - Item-3
 ```
+<p align="left">
 * Item-1
 * Item-2
 * Item-3
+
+</p>
 
 +++
 
