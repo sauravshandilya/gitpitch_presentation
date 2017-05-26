@@ -150,10 +150,10 @@ Inline-style:
 
 
 ---
-<p align="left">
-  
-## Adding Tables
-</p>
+
+ 
+<div style="text-align: left"> ## Adding Tables </div>
+
 ```markdown
 
 | Tables        | Are           | Cool  |
