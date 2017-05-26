@@ -1,4 +1,4 @@
-### Getting Started - Markdown Language
+#### Getting Started - Markdown Language
 
 e-Yantra Team 
 
@@ -9,11 +9,11 @@ e-Yantra Team
 
 ```markdown
 # Header
-##Header
+## Header
 ### Header
 ```
 # Header
-##Header
+## Header
 ### Header
 
 ---
@@ -127,6 +127,7 @@ _Italics Text_
 ```markdown
 [e-yantra official homepage](www.e-yantra.org)
 ```
+
 [e-yantra official homepage is hosted at www.e-yantra.org](www.e-yantra.org)
 
 +++
@@ -136,6 +137,7 @@ _Italics Text_
 ```markdown
 [Relative link to another file in github folder](../test)
 ```
+
 [Relative link to another file in github folder](../test)
 
 ---
